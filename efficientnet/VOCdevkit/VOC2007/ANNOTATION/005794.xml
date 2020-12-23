@@ -1,0 +1,32 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>005794.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>320451818</flickrid>
+	</source>
+	<owner>
+		<flickrid>ClintRiter</flickrid>
+		<name>Glenn Harris</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>269</ymin>
+			<xmax>209</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>
